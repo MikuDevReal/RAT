@@ -1,0 +1,19 @@
+[
+  {
+    "username": "Motion Snakey",
+    "password": "1",
+    "role": "owner",
+    "expiredDate": "9999-99-99",
+    "lastSend": 1767032816079,
+    "pairId": "1"
+  },
+  {
+    "username": "Snakey",
+    "password": "e",
+    "role": "owner",
+    "expiredDate": "9999-99-93",
+    "parent": "Motion Snakey",
+    "lastSend": 1771829435841,
+    "pairId": "0001"
+  }
+]
