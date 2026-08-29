@@ -459,16 +459,10 @@ const bugs = [
 // ============================================
 const tqto = [
   {
-    name: "Snake",
+    name: "Miku Developer",
     status: "Developer",
-    ppUrl: "https://files.catbox.moe/ewig0k.jpg",
-    contac: "t.me/snakereals17"
-  },
-  {
-    name: "Kalzy (Snake)",
-    status: "Creating",
-    ppUrl: "https://files.catbox.moe/ygoiby.jpg",
-    contac: "t.me/xsqlxz"
+    ppUrl: "https://i.ibb.co.com/RkvjHBHZ/file-00000000530481fa899d2d8e59af5daa.png",
+    contac: "t.me/elmikudev"
   },
 ];
 
@@ -478,8 +472,8 @@ const tqto = [
 const news = [
   {
     image: "https://files.catbox.moe/aveyk3.jpg",
-    title: "Motion Picture",
-    desc: "Developed By Ular"
+    title: "MIKU X RAT CONTROL",
+    desc: "Developed By Miku"
   }
 ];
 
